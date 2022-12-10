@@ -41,4 +41,4 @@ git commit для второго pull request
 
 git commit
 
-
+`git diff`
